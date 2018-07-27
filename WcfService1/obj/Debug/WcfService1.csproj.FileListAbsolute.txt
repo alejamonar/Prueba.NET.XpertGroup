@@ -1,0 +1,11 @@
+D:\WCF\WebServiceTYDW\WcfService1\obj\Debug\ResolveAssemblyReference.cache
+D:\WCF\WebServiceTYDW\WcfService1\bin\WcfService1.dll
+D:\WCF\WebServiceTYDW\WcfService1\bin\WcfService1.pdb
+D:\WCF\WebServiceTYDW\WcfService1\bin\WSEntidades.dll
+D:\WCF\WebServiceTYDW\WcfService1\bin\WSNegocios.dll
+D:\WCF\WebServiceTYDW\WcfService1\bin\WSDatos.dll
+D:\WCF\WebServiceTYDW\WcfService1\bin\WSDatos.pdb
+D:\WCF\WebServiceTYDW\WcfService1\bin\WSNegocios.pdb
+D:\WCF\WebServiceTYDW\WcfService1\bin\WSEntidades.pdb
+D:\WCF\WebServiceTYDW\WcfService1\obj\Debug\WcfService1.dll
+D:\WCF\WebServiceTYDW\WcfService1\obj\Debug\WcfService1.pdb

@@ -1,0 +1,5 @@
+D:\WCF\WebServiceTYDW\WSEntidades\bin\Debug\WSEntidades.dll
+D:\WCF\WebServiceTYDW\WSEntidades\bin\Debug\WSEntidades.pdb
+D:\WCF\WebServiceTYDW\WSEntidades\obj\Debug\ResolveAssemblyReference.cache
+D:\WCF\WebServiceTYDW\WSEntidades\obj\Debug\WSEntidades.dll
+D:\WCF\WebServiceTYDW\WSEntidades\obj\Debug\WSEntidades.pdb

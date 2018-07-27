@@ -1,0 +1,7 @@
+D:\WCF\WebServiceTYDW\WSDatos\bin\Debug\WSDatos.dll
+D:\WCF\WebServiceTYDW\WSDatos\bin\Debug\WSDatos.pdb
+D:\WCF\WebServiceTYDW\WSDatos\bin\Debug\WSEntidades.dll
+D:\WCF\WebServiceTYDW\WSDatos\bin\Debug\WSEntidades.pdb
+D:\WCF\WebServiceTYDW\WSDatos\obj\Debug\ResolveAssemblyReference.cache
+D:\WCF\WebServiceTYDW\WSDatos\obj\Debug\WSDatos.dll
+D:\WCF\WebServiceTYDW\WSDatos\obj\Debug\WSDatos.pdb

@@ -1,0 +1,9 @@
+D:\WCF\WebServiceTYDW\WSNegocios\bin\Debug\WSNegocios.dll
+D:\WCF\WebServiceTYDW\WSNegocios\bin\Debug\WSNegocios.pdb
+D:\WCF\WebServiceTYDW\WSNegocios\bin\Debug\WSDatos.dll
+D:\WCF\WebServiceTYDW\WSNegocios\bin\Debug\WSEntidades.dll
+D:\WCF\WebServiceTYDW\WSNegocios\bin\Debug\WSEntidades.pdb
+D:\WCF\WebServiceTYDW\WSNegocios\bin\Debug\WSDatos.pdb
+D:\WCF\WebServiceTYDW\WSNegocios\obj\Debug\ResolveAssemblyReference.cache
+D:\WCF\WebServiceTYDW\WSNegocios\obj\Debug\WSNegocios.dll
+D:\WCF\WebServiceTYDW\WSNegocios\obj\Debug\WSNegocios.pdb
